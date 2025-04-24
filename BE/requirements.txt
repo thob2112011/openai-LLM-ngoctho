@@ -1,0 +1,12 @@
+langchain
+newspaper3k
+fastapi
+uvicorn
+python-dotenv
+openai>=1.0.0
+tiktoken
+langchain
+faiss-cpu
+PyMuPDF
+newspaper3k
+lxml-html-clean
