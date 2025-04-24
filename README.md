@@ -1,5 +1,5 @@
 ﻿# Chatbot LLM (OpenAI)
-
+ Link video demo ứng dụng: https://youtu.be/_ne072DEycs
 Dự án gồm:
 
 - **BE**: Python FastAPI gọi API OpenAI.
