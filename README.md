@@ -37,7 +37,7 @@ tải các thư viện cần thiết
 
 tạo file .env
 
-- echo "OPENAI_API_KEY=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" >> .env
+- echo "OPENAI_API_KEY=my-api-key" >> .env
 
 - cd BE
   chạy lệnh
