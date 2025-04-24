@@ -8,5 +8,6 @@ tiktoken
 langchain
 faiss-cpu
 PyMuPDF
-newspaper3k
 lxml-html-clean
+langchain-community
+python-multipart
